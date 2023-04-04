@@ -1777,7 +1777,7 @@ Rust提供了迭代器trait,从而实现遍历，for循环本质上是一个语�
 
 Rust中有多个智能指针，可以参考下表，这里总结了一个表，方便你阅读
 
-https://github.com/CreatorsDAO/rust-co-learn/blob/main/images/smart_pointers.png
+![image-20230203001747611](https://github.com/CreatorsDAO/rust-co-learn/blob/main/images/smart_pointers.png)
 
 ## 3.2 类型进阶
 
